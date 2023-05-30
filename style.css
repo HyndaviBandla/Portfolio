@@ -1,0 +1,35 @@
+p {
+  font-style: italic;
+  font-size: 56px;
+  text-align: center;
+  border-bottom: 12px;
+  border-color: blue;
+}
+.heading {
+  font-weight: bold;
+  font-size: 22px;
+  font-style: oblique;
+  text-transform: uppercase;
+  text-align: center;
+  /* border: 2px;
+  border-width: 3px;
+  border-bottom: 30px;
+  border-color: blue; */
+  text-decoration: underline cyan;
+}
+
+form {
+   border-radius: 10px 10px 10px 10px;
+  /* background: #fff;
+  padding: 30px;
+  width: 90%;
+  max-width: 450px;
+  padding: 0px;
+  box-shadow: 0 30px 60px 0 rgba(0, 0, 0, 0.3);
+  text-align: center; */ */
+}
+.image {
+  /* display: flex;
+  justify-content: center; */
+  text-align: center;
+}
